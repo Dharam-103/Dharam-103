@@ -6,9 +6,9 @@
    <li>- 💬 Ask me about ...HTML ,CSS ,JavScript</li>
    <li>- 📫 How to reach me: ...kumardiren786@gmail.com</li>
    <li>-⚡ Fun fact:  I am a fast learner </li>
-  <li>-👨‍💻 All of my projects are available at <a href="https://Dharam-103.github.io"  target="_blank">Dharam-103.github.io</a> </li>
-  <li><a href="https://Dharam-103.github.io" target="_blank">My Portfolio</a></li>
-  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1AXLbvuPVXhtjS95WJBlePUqxo3W4OmbM/view?usp=share_link" target="_blank">Resume</a></li>
+  <li>-👨‍💻 All of my projects are available at <a href="https://Dharam-103.github.io">Dharam-103.github.io</a> </li>
+  <li><a href="https://Dharam-103.github.io">My Portfolio</a></li>
+  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1AXLbvuPVXhtjS95WJBlePUqxo3W4OmbM/view?usp=share_link">Resume</a></li>
 </ul>
 
 
