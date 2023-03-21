@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Dharmendra yadav
 <ul>
   <li>-🔭 An Passionate Full Stack Web Developer</li>
-  <li>-🌱 I’m currently learning ...React , Redux ,Next.Js</li>
+  <li>-🌱 I’m currently learning ...React,Redux,Next.Js</li>
    <li>- 🤔 I’m looking for help with ...React</li>
-   <li>- 💬 Ask me about ...HTML ,CSS ,JavScript</li>
+   <li>- 💬 Ask me about ...HTML ,CSS ,JavaScript</li>
    <li>- 📫 How to reach me: ...kumardiren786@gmail.com</li>
    <li>-⚡ Fun fact:  I am a fast learner </li>
   <li>-👨‍💻 All of my projects are available at <a href="https://Dharam-103.github.io">Dharam-103.github.io</a> </li>
