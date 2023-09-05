@@ -11,7 +11,7 @@
    <li>-⚡ Fun fact:  I am a fast learner </li>
   <li>-👨‍💻 All of my projects are available at <a href="https://Dharam-103.github.io">My Projects</a> </li>
   <li><a href="https://dharam-103.github.io/">My Portfolio</a></li>
-  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1nkLCFswMxcodoZD37Py4hrflWccnL8It/view?usp=share_link">My Resume</a></li>
+  <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/11YUjU1Y1dGCuvfkbltm-XnzaYq18gAeN/view?usp=drive_link">My Resume</a></li>
 </ul>
 
   ## 🌐 Connect with me:
